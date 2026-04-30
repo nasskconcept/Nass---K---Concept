@@ -9,6 +9,7 @@ tags:
 # Nass - K - Concept
 
 Nass- K - Concept est un projet de site web/web mobile pour une galerie d'art qui a pour but de promouvoir et faire connaitre une artiste en la présentant elle ainsi que quelques-unes de ses créations. Et de pouvoir aussi entrer en contact avec cette dernière .
+https://nasskconcept.github.io/Nass---K---Concept/
 
 ---
 
@@ -27,7 +28,7 @@ Galerie d'Art
 
 ### Public cible
 
-- Amateurs d"art et de créations singulières.
+- Amateurs d'art et de créations singulières.
 - Personnes attirées par le bien -être, l'introspection et la créativité
 - Internautes qui aiment découvrir des artistes indépendants
   -Décorateurs, lieux culturels, cafés, concept stores, expos
@@ -61,7 +62,6 @@ Galerie d'Art
 
 ### Accessibilité
 
-> Indiquez les points d'accessibilité vérifiés (contrastes, navigation, ...)
 
 - focus au clavier pour la navigation
 - couleurs contrastés (score minimum AA)
@@ -77,7 +77,6 @@ Galerie d'Art
 
 ## Difficultés rencontrées
 
-> Décrivez 1 à 3 difficultés techniques rencontrées pendant le projet, et comment vous les avez résolues (ou non).
 
 - Problème rencontré avec le responsive : pas possible de placer les élément de la page d'accueil dans l'ordre voulu ("order").
 - Problème rencontré avec le message de succés page contact résolu grâce à min-height.
