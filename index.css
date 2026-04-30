@@ -53,7 +53,7 @@ h4 {
   box-shadow: 0 2px 8px rgba(168, 153, 104, 0.2);
 }
 .btn-galerie:hover {
-  background-color: #515347;
+  background-color: #514547;
   transform: translateY(-1px);
 }
 .btn-galerie:focus {
