@@ -115,7 +115,7 @@ li {
 }
 
 .button-fake:hover {
-  background-color: #515347;
+  background-color: #514547;
   transform: translateY(-1px);
 }
 .button-fake:focus {
